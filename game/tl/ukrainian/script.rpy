@@ -14076,127 +14076,127 @@ translate ukrainian keiko_gal2_00d11b49:
 translate ukrainian natsuki_encounter_7023e6b4:
 
     # ao "What do you think of the new guy?"
-    ao "What do you think of the new guy?"
+    ao "Що думаєш про новенького хлопця?"
 
 # game/game/script.rpy:4566
 translate ukrainian natsuki_encounter_737e77e4:
 
     # sa "Hmm?"
-    sa "Hmm?"
+    sa "Гмм?"
 
 # game/game/script.rpy:4570
 translate ukrainian natsuki_encounter_7455e877:
 
     # sa "I think he is a powerful ally."
-    sa "I think he is a powerful ally."
+    sa "Гадаю, він сильний союзник."
 
 # game/game/script.rpy:4571
 translate ukrainian natsuki_encounter_8687a7d7:
 
     # ao "Yes, I know, but that's not what I meant."
-    ao "Yes, I know, but that's not what I meant."
+    ao "Так, знаю, але я питала не за це."
 
 # game/game/script.rpy:4574
 translate ukrainian natsuki_encounter_16e5ff7e:
 
     # sa "Would you also like to fight him?"
-    sa "Would you also like to fight him?"
+    sa "Ти теж бажаєш помірятися з ним силами?"
 
 # game/game/script.rpy:4575
 translate ukrainian natsuki_encounter_45feb290:
 
     # ao "No!"
-    ao "No!" with hpunch
+    ao "Ні!" with hpunch
 
 # game/game/script.rpy:4577
 translate ukrainian natsuki_encounter_c9fa0826:
 
     # ao "Do you think he has a girlfriend or wife?"
-    ao "Do you think he has a girlfriend or wife?"
+    ao "Як гадаєш, в нього є дівчина, чи дружина?"
 
 # game/game/script.rpy:4578
 translate ukrainian natsuki_encounter_c614be01:
 
     # sa "What?"
-    sa "What?"
+    sa "Що?"
 
 # game/game/script.rpy:4579
 translate ukrainian natsuki_encounter_d1408770:
 
     # ao "Didn't you see how handsome he is?"
-    ao "Didn't you see how handsome he is?"
+    ao "Хіба ти не бачила, який він гарний?"
 
 # game/game/script.rpy:4581
 translate ukrainian natsuki_encounter_14f5c205:
 
     # sa "He looks strong..."
-    sa "He looks strong..."
+    sa "Він має гарну статуру..."
 
 # game/game/script.rpy:4582
 translate ukrainian natsuki_encounter_74ae04fc:
 
     # ao "Sigh*"
-    ao "Sigh*"
+    ao "{i}*Хааах*{/i}"
 
 # game/game/script.rpy:4583
 translate ukrainian natsuki_encounter_814275e4:
 
     # ao "I don't remember the last time I talked about boys."
-    ao "I don't remember the last time I talked about boys."
+    ao "Я вже не пригадую, коли я ось так обговорювала хлопчаків."
 
 # game/game/script.rpy:4584
 translate ukrainian natsuki_encounter_7dbec352:
 
     # ao "And you don't show the slightest interest."
-    ao "And you don't show the slightest interest."
+    ao "А ти не виявляєш ані найменшого інтересу."
 
 # game/game/script.rpy:4586
 translate ukrainian natsuki_encounter_43c27bd7:
 
     # ao "Didn't you see how he looked at us?"
-    ao "Didn't you see how he looked at us?"
+    ao "Хіба ти не помітила, як від дивився на нас?"
 
 # game/game/script.rpy:4587
 translate ukrainian natsuki_encounter_ea0aeb37:
 
     # sa "Mmm..."
-    sa "Mmm..."
+    sa "Ммм..."
 
 # game/game/script.rpy:4589
 translate ukrainian natsuki_encounter_3ab44332:
 
     # sa "Yes, {w}he looked at me a lot..."
-    sa "Yes, {w}he looked at me a lot..."
+    sa "Так, {w}він багато на мене дивився..."
 
 # game/game/script.rpy:4590
 translate ukrainian natsuki_encounter_5c0e2697:
 
     # ao "I bet he already has a thing with those two girls."
-    ao "I bet he already has a thing with those two girls."
+    ao "Закладаюся, в нього вже було з тими дівчатами."
 
 # game/game/script.rpy:4592
 translate ukrainian natsuki_encounter_1ea8e5a7:
 
     # ao "You can tell they are very close."
-    ao "You can tell they are very close."
+    ao "Видно, що вони дуже близькі."
 
 # game/game/script.rpy:4593
 translate ukrainian natsuki_encounter_a1f0b406:
 
     # ao "How lucky~"
-    ao "How lucky~"
+    ao "Оце їм пощастило~"
 
 # game/game/script.rpy:4595
 translate ukrainian natsuki_encounter_f25893a8:
 
     # ao "I bet he has a huge p-"
-    ao "I bet he has a huge p-"
+    ao "Б'юсь об заклад, у нього величезний ч-"
 
 # game/game/script.rpy:4597
 translate ukrainian natsuki_encounter_98d2562e:
 
     # mc "Hey!"
-    mc "Hey!" (multiple=2)
+    mc "Привіт!" (multiple=2)
 
 # game/game/script.rpy:4598
 translate ukrainian natsuki_encounter_55fbc30f:
@@ -14208,67 +14208,67 @@ translate ukrainian natsuki_encounter_55fbc30f:
 translate ukrainian natsuki_encounter_05dbf1be:
 
     # mc "We are leaving, {w}we have to report the situation of this place."
-    mc "We are leaving, {w}we have to report the situation of this place."
+    mc "Ми вже йдем. {w}Нам треба розказати про тутешню ситуацію."
 
 # game/game/script.rpy:4601
 translate ukrainian natsuki_encounter_52fb95d9:
 
     # mc "And let them know that I'll be helping from now on."
-    mc "And let them know that I'll be helping from now on."
+    mc "А також сказати, що відтепер я допомагатиму вам."
 
 # game/game/script.rpy:4603
 translate ukrainian natsuki_encounter_cd6ba433:
 
     # ao "Really?!"
-    ao "Really?!"
+    ao "Справді?!"
 
 # game/game/script.rpy:4604
 translate ukrainian natsuki_encounter_4dcdae15:
 
     # sa "It will be a pleasure to have you on our side."
-    sa "It will be a pleasure to have you on our side."
+    sa "Буде приємно бачити тебе на нашому боці."
 
 # game/game/script.rpy:4606
 translate ukrainian natsuki_encounter_508f79c7:
 
     # r "Thanks for showing us around!"
-    r "Thanks for showing us around!"
+    r "Дякую, що показала нам тут все!"
 
 # game/game/script.rpy:4607
 translate ukrainian natsuki_encounter_60ffd4b6:
 
     # ao "No problem! {w}Come whenever you want~"
-    ao "No problem! {w}Come whenever you want~"
+    ao "Дрібниці! {w}Приходьте до нас, коли зможете~"
 
 # game/game/script.rpy:4609
 translate ukrainian natsuki_encounter_17149b59:
 
     # mc "Take care, I won't be long."
-    mc "Take care, I won't be long."
+    mc "Бережіть себе. Я скоро повернуся."
 
 # game/game/script.rpy:4610
 translate ukrainian natsuki_encounter_0ec56f57:
 
     # ao "Okay, we'll be waiting for you."
-    ao "Okay, we'll be waiting for you."
+    ao "Гаразд. Ми чекатимемо на тебе."
 
 # game/game/script.rpy:4611
 translate ukrainian natsuki_encounter_83d233c4:
 
     # sa "Be careful on the way."
-    sa "Be careful on the way."
+    sa "Обережніше на шляху додому."
 
 # game/game/script.rpy:4616
 translate ukrainian natsuki_encounter_cb540aa1:
 
     # ao "Oh! {w}You're back!"
-    ao "Oh! {w}You're back!" with hpunch
+    ao "О! {w}Ти повернулася!" with hpunch
 
 # game/game/script.rpy:4617
 translate ukrainian natsuki_encounter_3f871f46:
 
     # mc "Hmm?"
-    mc "Hmm?"
+    mc "Гмм?"
 
 # game/game/script.rpy:4618
 translate ukrainian natsuki_encounter_a41ae245:
@@ -14280,31 +14280,31 @@ translate ukrainian natsuki_encounter_a41ae245:
 translate ukrainian natsuki_encounter_ac952bd1:
 
     # ao "I thought you wouldn't get to meet our new allies."
-    ao "I thought you wouldn't get to meet our new allies."
+    ao "А я вже гадала, що ти не зможеш зустріти наших нових союзників."
 
 # game/game/script.rpy:4621
 translate ukrainian natsuki_encounter_b01afc04:
 
     # a "Ohh really?"
-    a "Ohh really?"
+    a "Ооо, справді?"
 
 # game/game/script.rpy:4622
 translate ukrainian natsuki_encounter_622e17df:
 
     # a "What happened here? Why so many people?"
-    a "What happened here? Why so many people?"
+    a "Що вже тут трапилося? Чому так багато народу?"
 
 # game/game/script.rpy:4624
 translate ukrainian natsuki_encounter_caabd000:
 
     # a "Let me introduce myself, {w} I am-"
-    a "Let me introduce myself, {w} I am-"
+    a "Дозвольте представитися, {w} мене звати-"
 
 # game/game/script.rpy:4628
 translate ukrainian natsuki_encounter_f12aeeee:
 
     # r "{size=-8}N-Natsuki?"
-    r "{size=-8}N-Natsuki?"
+    r "{size=-8}Н-Нацукі?"
 
 # game/game/script.rpy:4630
 translate ukrainian natsuki_encounter_3d8ca82a:
@@ -14316,43 +14316,43 @@ translate ukrainian natsuki_encounter_3d8ca82a:
 translate ukrainian natsuki_encounter_b79eed06:
 
     # t "Ryoko?"
-    t "Ryoko?"
+    t "Рьоко?"
 
 # game/game/script.rpy:4633
 translate ukrainian natsuki_encounter_05903eac:
 
     # r "{size=-8}I-Is it you? {w}Natsuki..."
-    r "{size=-8}I-Is it you? {w}Natsuki..."
+    r "{size=-8}Ц-Це ти? {w}Нацукі..."
 
 # game/game/script.rpy:4634
 translate ukrainian natsuki_encounter_dd65b650:
 
     # na "{size=-8}R-Ryo{w}ko..?"
-    na "{size=-8}R-Ryo{w}ko..?"
+    na "{size=-8}Р-Рьо{w}ко..?"
 
 # game/game/script.rpy:4635
 translate ukrainian natsuki_encounter_183f2441:
 
     # t "Do they know each other..?"
-    t "Do they know each other..?"
+    t "Вони знайомі..?"
 
 # game/game/script.rpy:4637
 translate ukrainian natsuki_encounter_e9c28e09:
 
     # na "Still as whiny as ever..."
-    na "Still as whiny as ever..."
+    na "Ти досі така ж плаксійка..."
 
 # game/game/script.rpy:4638
 translate ukrainian natsuki_encounter_c342cc8a:
 
     # r "{size=-5}I t-thought you were..."
-    r "{size=-5}I t-thought you were..."
+    r "{size=-5}Я д-думала ти..."
 
 # game/game/script.rpy:4640
 translate ukrainian natsuki_encounter_8ed1fc3e:
 
     # na "I thought so too..."
-    na "I thought so too..."
+    na "Я теж так думала..."
 
 # game/game/script.rpy:4642
 translate ukrainian natsuki_encounter_8c6cc753:
@@ -14370,19 +14370,19 @@ translate ukrainian natsuki_encounter_3ff4bc74:
 translate ukrainian natsuki_encounter_22c30998:
 
     # r "Naatsuki!!"
-    r "Naatsuki!!" (multiple=2)
+    r "Наацукіі!!" (multiple=2)
 
 # game/game/script.rpy:4646
 translate ukrainian natsuki_encounter_34968f73:
 
     # na "{size=-7}Ghn!"
-    na "{size=-7}Ghn!" (multiple=2)
+    na "{size=-7}{i}Гхн!{/i}" (multiple=2)
 
 # game/game/script.rpy:4648
 translate ukrainian natsuki_encounter_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/script.rpy:4649
 translate ukrainian natsuki_encounter_d19f855d:
@@ -14394,133 +14394,133 @@ translate ukrainian natsuki_encounter_d19f855d:
 translate ukrainian natsuki_encounter_7e9cecc8:
 
     # t "She must be just as confused as I am."
-    t "She must be just as confused as I am."
+    t "Вона, певно, так само спантеличена, як і я."
 
 # game/game/script.rpy:4652
 translate ukrainian natsuki_encounter_7154b560:
 
     # mc "{size=-10}It looks like we will be staying a while longer."
-    mc "{size=-10}It looks like we will be staying a while longer."
+    mc "{size=-10}Видно, нам доведеться ще трохи затриматися."
 
 # game/game/script.rpy:4653
 translate ukrainian natsuki_encounter_8b7f0998:
 
     # c "Hmn."
-    c "Hmn."
+    c "{i}Хмн.{/i}"
 
 # game/game/script.rpy:4654
 translate ukrainian natsuki_encounter_3a0a3758:
 
     # r "Natsuki! {w}Natsuki!"
-    r "Natsuki! {w}Natsuki!" with vpunch
+    r "Нацукі! {w}Нацукі!" with vpunch
 
 # game/game/script.rpy:4656
 translate ukrainian natsuki_encounter_a71535b5:
 
     # t "The others also remained silent."
-    t "The others also remained silent."
+    t "Інші теж досі стоять мочки."
 
 # game/game/script.rpy:4657
 translate ukrainian natsuki_encounter_83cda03f:
 
     # mc "{size=-10}It's better to give them some space."
-    mc "{size=-10}It's better to give them some space."
+    mc "{size=-10}Краще залишити їх удвох."
 
 # game/game/script.rpy:4662
 translate ukrainian natsuki_encounter_92c00d3b:
 
     # t "It seems that they have known each other for years."
-    t "It seems that they have known each other for years."
+    t "Здається, ніби вони знають одне одного вже багато років."
 
 # game/game/script.rpy:4663
 translate ukrainian natsuki_encounter_15f097ae:
 
     # t "I'm happy that Ryoko was able to see a friend again."
-    t "I'm happy that Ryoko was able to see a friend again."
+    t "Я радий, що Рьоко змогла знову побачити свою подругу."
 
 # game/game/script.rpy:4664
 translate ukrainian natsuki_encounter_21765e5b:
 
     # c "This brings back a lot of memories."
-    c "This brings back a lot of memories."
+    c "Це навіює багато спогадів."
 
 # game/game/script.rpy:4665
 translate ukrainian natsuki_encounter_03fb3e88_1:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "Ммм?"
 
 # game/game/script.rpy:4666
 translate ukrainian natsuki_encounter_95b4a587:
 
     # mc "Why do you say so?"
-    mc "Why do you say so?"
+    mc "Про що ти?"
 
 # game/game/script.rpy:4668
 translate ukrainian natsuki_encounter_6024dd65:
 
     # c "There was a time when I was in this village."
-    c "There was a time when I was in this village."
+    c "Був час, коли я перебувала в цьому містечку."
 
 # game/game/script.rpy:4669
 translate ukrainian natsuki_encounter_b51c1b5a:
 
     # mc "You seemed to know a lot about this place."
-    mc "You seemed to know a lot about this place."
+    mc "Здається, ти багато знаєш про це місце."
 
 # game/game/script.rpy:4670
 translate ukrainian natsuki_encounter_4d7d8b86:
 
     # c "Yes... {w}I used to travel with a girl."
-    c "Yes... {w}I used to travel with a girl."
+    c "Так... {w}Я подорожувала з однією дівчиною."
 
 # game/game/script.rpy:4671
 translate ukrainian natsuki_encounter_a785da13:
 
     # c "Sometimes, we used to sit here while we ate."
-    c "Sometimes, we used to sit here while we ate."
+    c "Іноді ми сідали тут, коли приходили поїсти."
 
 # game/game/script.rpy:4672
 translate ukrainian natsuki_encounter_8f21720a:
 
     # mc "The same person you used to fish with?"
-    mc "The same person you used to fish with?"
+    mc "Та сама дівчина, з якою ти рибалила?"
 
 # game/game/script.rpy:4674
 translate ukrainian natsuki_encounter_00d11b49:
 
     # c "Yes..."
-    c "Yes..."
+    c "Так..."
 
 # game/game/script.rpy:4675
 translate ukrainian natsuki_encounter_a1464d1a:
 
     # mc "I was told that there are some mixed hot springs."
-    mc "I was told that there are some mixed hot springs."
+    mc "Мені розповіли, що тут є спільні гарячі джерела."
 
 # game/game/script.rpy:4676
 translate ukrainian natsuki_encounter_171462f0:
 
     # c "In the past, they weren't mixed."
-    c "In the past, they weren't mixed."
+    c "У минулому вони не були спільними."
 
 # game/game/script.rpy:4677
 translate ukrainian natsuki_encounter_6bcd6ecd:
 
     # mc "Maybe they did it to attract more adventurers."
-    mc "Maybe they did it to attract more adventurers."
+    mc "Мабуть, вони так зробили, щоби привабити більше пригодників."
 
 # game/game/script.rpy:4678
 translate ukrainian natsuki_encounter_a9f34c76:
 
     # c "I don't know."
-    c "I don't know."
+    c "Не знаю."
 
 # game/game/script.rpy:4679
 translate ukrainian natsuki_encounter_457149c4:
 
     # mc "Maybe... {w} we could go together sometime?"
-    mc "Maybe... {w} we could go together sometime?"
+    mc "Можливо... {w}ми могли б якось сходити туди разом?"
 
 # game/game/script.rpy:4680
 translate ukrainian natsuki_encounter_d19f855d_1:
@@ -14532,145 +14532,145 @@ translate ukrainian natsuki_encounter_d19f855d_1:
 translate ukrainian natsuki_encounter_fabe4767:
 
     # c "Maybe..."
-    c "Maybe..."
+    c "Можливо..."
 
 # game/game/script.rpy:4683
 translate ukrainian natsuki_encounter_4681be6f:
 
     # t "Yes!"
-    t "Yes!" with hpunch
+    t "Так!" with hpunch
 
 # game/game/script.rpy:4684
 translate ukrainian natsuki_encounter_6153f22e:
 
     # r "Master!"
-    r "Master!"
+    r "Господарю!"
 
 # game/game/script.rpy:4685
 translate ukrainian natsuki_encounter_40b7db49:
 
     # na "Hello."
-    na "Hello."
+    na "Привіт."
 
 # game/game/script.rpy:4687
 translate ukrainian natsuki_encounter_f6263144:
 
     # mc "Oh, Hey."
-    mc "Oh, Hey."
+    mc "О, привіт."
 
 # game/game/script.rpy:4688
 translate ukrainian natsuki_encounter_f4991eb8:
 
     # mc "All good?"
-    mc "All good?"
+    mc "Усе добре?"
 
 # game/game/script.rpy:4690
 translate ukrainian natsuki_encounter_8e17cebf:
 
     # r "Yes!~{image=corazon}"
-    r "Yes!~{image=corazon}" with vpunch
+    r "Так!~{image=corazon}" with vpunch
 
 # game/game/script.rpy:4691
 translate ukrainian natsuki_encounter_ab19c9ee:
 
     # mc "Hahaha, {w}I'm happy for you."
-    mc "Hahaha, {w}I'm happy for you."
+    mc "Хахаха, {w}я радий за тебе."
 
 # game/game/script.rpy:4692
 translate ukrainian natsuki_encounter_55035df8:
 
     # na "Hahaha."
-    na "Hahaha."
+    na "Хахаха."
 
 # game/game/script.rpy:4694
 translate ukrainian natsuki_encounter_e808a8b2:
 
     # na "Can I talk to you alone?"
-    na "Can I talk to you alone?"
+    na "Я можу поговорити з тобою наодинці?"
 
 # game/game/script.rpy:4695
 translate ukrainian natsuki_encounter_f7246537:
 
     # mc "Mmm? {w}Talk?"
-    mc "Mmm? {w}Talk?"
+    mc "Ммм? {w}Поговорити?"
 
 # game/game/script.rpy:4697
 translate ukrainian natsuki_encounter_2fcc7ac5:
 
     # mc "Sure..."
-    mc "Sure..."
+    mc "Звісно..."
 
 # game/game/script.rpy:4698
 translate ukrainian natsuki_encounter_2f504faf:
 
     # r "I'll stay with Charlotte. She seems to be pretty sleepy."
-    r "I'll stay with Charlotte. She seems to be pretty sleepy."
+    r "Я побуду з Шарлоттою. Вона виглядає дуже сонною."
 
 # game/game/script.rpy:4699
 translate ukrainian natsuki_encounter_ec35ade7:
 
     # c "Yaaawn*"
-    c "Yaaawn*"
+    c "{i}*Мааах*{/i}"
 
 # game/game/script.rpy:4701
 translate ukrainian natsuki_encounter_ecdaf543:
 
     # mc "What did you want to tell me?"
-    mc "What did you want to tell me?"
+    mc "То про що ти хотіла поговорити?"
 
 # game/game/script.rpy:4702
 translate ukrainian natsuki_encounter_a5a920d6:
 
     # mc "Maybe it's because of something in the town? Now I will be helping here-"
-    mc "Maybe it's because of something in the town? Now I will be helping here-"
+    mc "Можливо, щось трапилося у містечку? Тепер я допомагатиму тут-"
 
 # game/game/script.rpy:4705
 translate ukrainian natsuki_encounter_8d33dec8:
 
     # na "Thank you for taking care of Ryoko!"
-    na "Thank you for taking care of Ryoko!" (multiple=2)
+    na "Дякую тобі, що дбав про Рьоко!" (multiple=2)
 
 # game/game/script.rpy:4706
 translate ukrainian natsuki_encounter_60494c90:
 
     # mc "Eh?"
-    mc "Eh?" (multiple=2)
+    mc "Ех?" (multiple=2)
 
 # game/game/script.rpy:4707
 translate ukrainian natsuki_encounter_9d5d52e3:
 
     # na "She told me that she has been with you since she escaped from the slavers."
-    na "She told me that she has been with you since she escaped from the slavers."
+    na "Вона мені розповіла, що вона з тобою, відколи змогла втекти від рабовласників."
 
 # game/game/script.rpy:4709
 translate ukrainian natsuki_encounter_987b7e5a:
 
     # mc "You don't have to thank me! {w}I just did what anyone would do."
-    mc "You don't have to thank me! {w}I just did what anyone would do."
+    mc "Тобі не треба мені дякувати! {w}Я просто зробив те, що зробив би будь-хто інший."
 
 # game/game/script.rpy:4710
 translate ukrainian natsuki_encounter_9cfff0a2:
 
     # mc "Besides, without her I would be dead."
-    mc "Besides, without her I would be dead."
+    mc "До того ж, якби не вона, я б уже помер."
 
 # game/game/script.rpy:4711
 translate ukrainian natsuki_encounter_f51656ec:
 
     # na "She told me you would answer me that way."
-    na "She told me you would answer me that way."
+    na "Вона мені сказала, що ти так відповіси."
 
 # game/game/script.rpy:4712
 translate ukrainian natsuki_encounter_506c8fd0:
 
     # mc "Err.."
-    mc "Err.."
+    mc "Емм..."
 
 # game/game/script.rpy:4714
 translate ukrainian natsuki_encounter_08979f99:
 
     # na "And no. {w}Not everyone would take care of a demon as if they were part of their family."
-    na "And no. {w}Not everyone would take care of a demon as if they were part of their family."
+    na "І ні. {w}Не кожен подбав би про демона, наче той частина їхньої родини."
 
 # game/game/script.rpy:4715
 translate ukrainian natsuki_encounter_2b35b6fe:
@@ -14682,115 +14682,115 @@ translate ukrainian natsuki_encounter_2b35b6fe:
 translate ukrainian natsuki_encounter_b7ac5334:
 
     # na "Thank you very much..."
-    na "Thank you very much..."
+    na "Я тобі дуже вдячна..."
 
 # game/game/script.rpy:4717
 translate ukrainian natsuki_encounter_70b5cb5e:
 
     # na "{size=-10}Really..."
-    na "{size=-10}Really..."
+    na "{size=-10}Справді..."
 
 # game/game/script.rpy:4718
 translate ukrainian natsuki_encounter_35dcff22:
 
     # mc "I-It's ok..."
-    mc "I-It's ok..."
+    mc "Г-Гаразд уже..."
 
 # game/game/script.rpy:4720
 translate ukrainian natsuki_encounter_fabc78ab:
 
     # na "If you ever need anything, the Adventurer's lounge manager is here to serve you!"
-    na "If you ever need anything, the Adventurer's lounge manager is here to serve you!"
+    na "Якщо тобі коли-небудь знадобиться щось, очільниця гільдії пригодників до твоїх послуг!"
 
 # game/game/script.rpy:4721
 translate ukrainian natsuki_encounter_db6d6865:
 
     # mc "Are you in charge?"
-    mc "Are you in charge?"
+    mc "То ти тут за головну?"
 
 # game/game/script.rpy:4722
 translate ukrainian natsuki_encounter_1e345f80:
 
     # na "Aoi told me that you're interested in joining us."
-    na "Aoi told me that you're interested in joining us."
+    na "Аой мені розповіла, що ти бажаєш доєднатися."
 
 # game/game/script.rpy:4723
 translate ukrainian natsuki_encounter_c7c620ba:
 
     # mc "Yes!{w} I want to obtain my rank."
-    mc "Yes!{w} I want to obtain my rank."
+    mc "Так!{w} Я хочу отримати свій ранг."
 
 # game/game/script.rpy:4725
 translate ukrainian natsuki_encounter_028c6d9d:
 
     # na "Of course! Just come and talk to me whenever you want!"
-    na "Of course! Just come and talk to me whenever you want!"
+    na "Звісно! Заскоч до мене наступного разу, як буде час!"
 
 # game/game/script.rpy:4726
 translate ukrainian natsuki_encounter_20356c68:
 
     # na "I will reopen the salon just for you!"
-    na "I will reopen the salon just for you!"
+    na "Я знову відкрию цей заклад лише задля тебе!"
 
 # game/game/script.rpy:4727
 translate ukrainian natsuki_encounter_c8deb497:
 
     # mc "Perfect!"
-    mc "Perfect!"
+    mc "Ідеально!"
 
 # game/game/script.rpy:4728
 translate ukrainian natsuki_encounter_2604fb74:
 
     # na "Just look for the sign I'll put back up."
-    na "Just look for the sign I'll put back up."
+    na "Просто шукай вивіску, я причеплю її назад."
 
 # game/game/script.rpy:4730
 translate ukrainian natsuki_encounter_2536d150:
 
     # na "Well, {w}you should go home now~"
-    na "Well, {w}you should go home now~"
+    na "Ну, {w}здається, вам вже час йти додому~"
 
 # game/game/script.rpy:4731
 translate ukrainian natsuki_encounter_59273509:
 
     # na "I don't want you to travel at night."
-    na "I don't want you to travel at night."
+    na "Не хочу, щоб ви йшли вночі."
 
 # game/game/script.rpy:4732
 translate ukrainian natsuki_encounter_808cf84e:
 
     # mc "You are right."
-    mc "You are right."
+    mc "Твоя правда."
 
 # game/game/script.rpy:4734
 translate ukrainian natsuki_encounter_a8cb8fa0:
 
     # na "One last thing...{w} Ryoko mentioned that you guys are pretty close."
-    na "One last thing...{w} Ryoko mentioned that you guys are pretty close."
+    na "Іще одне...{w} Рьоко згадувала, що ви двоє досить близькі."
 
 # game/game/script.rpy:4735
 translate ukrainian natsuki_encounter_fc14b6ff:
 
     # mc "Y-yeah.."
-    mc "Y-yeah.."
+    mc "А-Ага..."
 
 # game/game/script.rpy:4737
 translate ukrainian natsuki_encounter_6c4370bc:
 
     # na "Maah~{image=corazon}"
-    na "Maah~{image=corazon}"
+    na "{i}Ваах~{/i}{image=corazon}"
 
 # game/game/script.rpy:4738
 translate ukrainian natsuki_encounter_3de9761b:
 
     # na "A human who accepts everyone equally."
-    na "A human who accepts everyone equally."
+    na "Людина, для якої всі рівні."
 
 # game/game/script.rpy:4739
 translate ukrainian natsuki_encounter_3c6ade7c:
 
     # na "If only the world were filled with people like you..."
-    na "If only the world were filled with people like you..."
+    na "Якби ж це тільки світ був сповнений такими, як ти..."
 
 # game/game/script.rpy:4740
 translate ukrainian natsuki_encounter_2b35b6fe_1:
@@ -14802,7 +14802,7 @@ translate ukrainian natsuki_encounter_2b35b6fe_1:
 translate ukrainian natsuki_encounter_7a032f8a:
 
     # na "Maybe if you had children with all of us, they could be raised to be like you."
-    na "Maybe if you had children with all of us, they could be raised to be like you."
+    na "Мабуть, якби ти мав дітей від кожної з нас, їх би вдалося виростити, схожими на тебе."
 
 # game/game/script.rpy:4742
 translate ukrainian natsuki_encounter_bbb6ce9b:
@@ -14814,49 +14814,49 @@ translate ukrainian natsuki_encounter_bbb6ce9b:
 translate ukrainian natsuki_encounter_55035df8_1:
 
     # na "Hahaha."
-    na "Hahaha."
+    na "Хахаха."
 
 # game/game/script.rpy:4744
 translate ukrainian natsuki_encounter_92911d9a:
 
     # na "Mmm~~ {w}It doesn't seem to be an idea you don't like.."
-    na "Mmm~~ {w}It doesn't seem to be an idea you don't like.."
+    na "Ммм~~ {w}Не схоже, що ця ідея тобі не сподобалася..."
 
 # game/game/script.rpy:4754
 translate ukrainian natsuki_encounter_97e71906:
 
     # t "They all look like nice girls."
-    t "They all look like nice girls."
+    t "Вони всі тут такі добрі дівчата."
 
 # game/game/script.rpy:4755
 translate ukrainian natsuki_encounter_3f8abfcb:
 
     # t "I'll do my best to help them."
-    t "I'll do my best to help them."
+    t "Я викладусь на повну, щоб допомогти їм."
 
 # game/game/script.rpy:4756
 translate ukrainian natsuki_encounter_9709060b:
 
     # t "I should talk to Ryoko. She said she wanted to tell me something."
-    t "I should talk to Ryoko. She said she wanted to tell me something."
+    t "Мені варто поговорити з Рьоко. Вона казала, що хоче мені дещо розповісти."
 
 # game/game/script.rpy:4757
 translate ukrainian natsuki_encounter_fd672554:
 
     # t "I also have to talk to Natsuki."
-    t "I also have to talk to Natsuki."
+    t "Я також маю поговорити з Нацукі."
 
 # game/game/script.rpy:4758
 translate ukrainian natsuki_encounter_a43147eb:
 
     # t "And let Hana know about the situation."
-    t "And let Hana know about the situation."
+    t "І розповісти Хані про ситуацію."
 
 # game/game/script.rpy:4763
 translate ukrainian natsuki_encounter_636c25e6:
 
     # "{image=/bg/icons/heart_text.png}Natsuki's affection has increased to [natsuki_affection]{image=/bg/icons/heart_text.png}"
-    "{image=/bg/icons/heart_text.png}Natsuki's affection has increased to [natsuki_affection]{image=/bg/icons/heart_text.png}"
+    "{image=/bg/icons/heart_text.png}Прихильність Нацукі зросла до [natsuki_affection]{image=/bg/icons/heart_text.png}"
 
 # game/game/script.rpy:4774
 translate ukrainian mother_memory2_a9afa8ae:
@@ -30955,6 +30955,12 @@ translate ukrainian strings:
     old "After leaving the village."
     new "Вийшовши за межі селища."
 
+    old "You and the girls go back to your village."
+    new "Ти з дівчатами вирушаєш назад до селища."
+
+    old "{image=quest_text}You've received a new missions!"
+    new "{image=quest_text}Ти отримав нові завдання!"
+
     old "{b}Don't leave."
     new "{b}Don't leave."
 
@@ -31015,9 +31021,6 @@ translate ukrainian strings:
     old "{outlinecolor=#000000}{i}But these chains are as fragile as the goddesses' hearts."
     new "{outlinecolor=#000000}{i}But these chains are as fragile as the goddesses' hearts."
 
-    old "You and the girls go back to your village."
-    new "You and the girls go back to your village."
-
     old "Can't you hear me?"
     new "Can't you hear me?"
 
@@ -31047,9 +31050,6 @@ translate ukrainian strings:
 
     old "{outlinecolor=#000000}{i}You've seen the dark side up close..."
     new "{outlinecolor=#000000}{i}You've seen the dark side up close..."
-
-    old "{image=quest_text}You've received a new missions!"
-    new "{image=quest_text}You've received a new missions!"
 
     old "{outlinecolor=#000000}{i}Don't be surprised when you realize how everything is connected..."
     new "{outlinecolor=#000000}{i}Don't be surprised when you realize how everything is connected..."
