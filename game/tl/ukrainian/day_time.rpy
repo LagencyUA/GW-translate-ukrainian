@@ -461,7 +461,7 @@ translate ukrainian strings:
 
     # game/day_time.rpy:1091
     old "{color=#FF438D}H{/color}-Event\nGo to {color=#BCB2CC}Tomoe's{/color} shop at night."
-    new "{color=#FF438D}H{/color}-Event\nGo to {color=#BCB2CC}Tomoe's{/color} shop at night."
+    new "{color=#FF438D}Х{/color}-подія\nПрямуй до крамнички {color=#BCB2CC}Томое{/color} вночі."
 
     # game/day_time.rpy:1113
     old "{color=#FFFFFF}N{/color}-Event\nLeave {color=#CACACA}your home{/color} in the {color=#FBE5A2}afternoon."
