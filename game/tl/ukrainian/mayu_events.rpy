@@ -159,7 +159,7 @@ translate ukrainian mayu_event_1_ca7365f6:
 translate ukrainian mayu_event_1_3b15b4e8:
 
     # mc "I think I came to the wrong pla-"
-    mc "Гадаю, я помилився буд-."
+    mc "Гадаю, я помилився буд-"
 
 # game/game/mayu_events.rpy:162
 translate ukrainian mayu_event_1_62432aad:

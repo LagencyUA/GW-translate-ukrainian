@@ -231,7 +231,7 @@ translate ukrainian akane_forestmeet_5ba95e21:
 translate ukrainian akane_forestmeet_ec8e56b3:
 
     # ak "S-Surely it's because of something p-perverted, isn't it? {w}You and your simple mind."
-    ak "А-Авжеш це через якісь з-збочення, так? {w}Ти й твій обмежений розум."
+    ak "А-Авжеж це через якісь з-збочення, так? {w}Ти й твій обмежений розум."
 
 # game/game/akane_events.rpy:96
 translate ukrainian akane_forestmeet_fddec73d:
@@ -3735,7 +3735,7 @@ translate ukrainian akane_gal2_0abf6a7e:
 translate ukrainian akane_gal2_6e3bd158:
 
     # ak "O-Of course it f-feels good..."
-    ak "З-Звісно тобі п-приємно..."
+    ak "З-Звісно, тобі п-приємно..."
 
 # game/game/akane_events.rpy:1233
 translate ukrainian akane_gal2_38ff4965:
@@ -6615,7 +6615,7 @@ translate ukrainian akane_gal3_aac84f75:
 translate ukrainian akane_gal3_895c92da:
 
     # ak "Of course you do."
-    ak "Звісно обожнюєш."
+    ak "Звісно, обожнюєш."
 
 # game/game/akane_events.rpy:2135
 translate ukrainian akane_gal3_2b35b6fe_2:
@@ -6759,7 +6759,7 @@ translate ukrainian akane_gal3_f7219d57:
 translate ukrainian akane_gal3_5dc02253:
 
     # mc "Not really..."
-    mc "Звісно ні..."
+    mc "Звісно, ні..."
 
 # game/game/akane_events.rpy:2164
 translate ukrainian akane_gal3_19ce78ca:
@@ -7323,7 +7323,7 @@ translate ukrainian akane_gal3_b4beff66:
 translate ukrainian akane_gal3_057627d4:
 
     # ak "O-Of course it feels good! {w}Haanmn~{image=corazon} {w}D-Do you think it-"
-    ak "З-Звісно вона приємна! {w}{i}Хаанмн~{/i}{image=corazon} {w}Г-Гадаєш, вона-"
+    ak "З-Звісно, вона приємна! {w}{i}Хаанмн~{/i}{image=corazon} {w}Г-Гадаєш, вона-"
 
 # game/game/akane_events.rpy:2287
 translate ukrainian akane_gal3_450606dc:
@@ -7797,7 +7797,7 @@ translate ukrainian akane_gal3_5a60015e:
 translate ukrainian akane_gal3_eaec64d4:
 
     # ak "{size=-6}If that were the case, {size=-8}I might consider it-"
-    ak "{size=-6}Якби така була, {size=-8}я б можливо подумала про-"
+    ak "{size=-6}Якби така була, {size=-8}я б, можливо, подумала про-"
 
 # game/game/akane_events.rpy:2415
 translate ukrainian akane_gal3_4d2298b2:

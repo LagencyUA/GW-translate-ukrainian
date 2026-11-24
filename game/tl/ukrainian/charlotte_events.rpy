@@ -5397,7 +5397,7 @@ translate ukrainian char_first_H_aaa50fb0:
 translate ukrainian char_first_H_53706532:
 
     # t "After all, this house is too big for just the two of us."
-    t "Зрештою цей дім занадто великий лише для нас двох."
+    t "Зрештою, цей дім занадто великий лише для нас двох."
 
 # game/game/charlotte_events.rpy:1703
 translate ukrainian char_first_H_3f871f46:

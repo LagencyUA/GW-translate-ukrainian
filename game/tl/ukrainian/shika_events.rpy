@@ -11524,7 +11524,7 @@ translate ukrainian shika_gal3_699ac020:
 translate ukrainian shika_gal3_11afcd8d:
 
     # mc "I'm kidding, {w}I would never leave, I have a very troublesome girl I have to take care of now."
-    mc "Та жартую, {w}звісно я ніколи не залишу, адже в мене тут дуже проблемна дівчина, за якою я мушу зараз наглядати."
+    mc "Та жартую, {w}звісно, я ніколи не залишу, адже в мене тут дуже проблемна дівчина, за якою я мушу зараз наглядати."
 
 # game/game/shika_events.rpy:3356
 translate ukrainian shika_gal3_dcdcf1d1:

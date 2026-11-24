@@ -2607,7 +2607,7 @@ translate ukrainian tomoe_eventtres_5ccf1756:
 translate ukrainian tomoe_eventtres_ecaba4ac:
 
     # mc "Yes, then she gets it back, but-"
-    mc "Так. Потім вона зрештою її повертає, але-"
+    mc "Так. Потім вона, зрештою, її повертає, але-"
 
 # game/game/tomoe_events.rpy:1288
 translate ukrainian tomoe_eventtres_8ecd8efe:

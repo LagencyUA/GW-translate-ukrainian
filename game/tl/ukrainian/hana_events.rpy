@@ -4539,7 +4539,7 @@ translate ukrainian hana_town_mission_fa59784f:
 translate ukrainian hana_town_mission_758d13de:
 
     # mc "You could mark it for me on the map, {w}that way with just one click I could get there."
-    mc "Познач його на мапі, {w}щоб я міг за лише один клік туди дістатися."
+    mc "Познач його на мапі, {w}щоб я міг за лише один тиць туди дістатися."
 
 # game/game/hana_events.rpy:1581
 translate ukrainian hana_town_mission_6f9941b0:

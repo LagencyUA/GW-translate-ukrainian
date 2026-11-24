@@ -10899,7 +10899,7 @@ translate ukrainian sol_eventuno_a0b9dbb2:
 translate ukrainian sol_eventuno_032a6577:
 
     # so "Ooh~ {w}very impressive."
-    so "Оох~ {w}вражаюче."
+    so "Оох~ {w}дивовижно."
 
 # game/game/yui_events.rpy:3421
 translate ukrainian sol_eventuno_308f2bf7:
@@ -11823,7 +11823,7 @@ translate ukrainian sol_eventtres_cc7a7cc3:
 translate ukrainian sol_eventtres_3b71166c:
 
     # y "Of course not, if you continue to perform well, he will train you again."
-    y "Звісно ні, якщо продовжите показувати гарні результати, він знову тренуватиме вас."
+    y "Звісно, ні, якщо продовжите показувати гарні результати, він знову тренуватиме вас."
 
 # game/game/yui_events.rpy:3738
 translate ukrainian sol_eventtres_06267f18:

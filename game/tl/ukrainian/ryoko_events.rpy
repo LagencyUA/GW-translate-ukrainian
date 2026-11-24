@@ -4061,7 +4061,7 @@ translate ukrainian ryoko_gal1_1ba7c025:
 translate ukrainian ryoko_gal1_2f4ba47f:
 
     # mc "Of course not!"
-    mc "Звісно сподобалося!"
+    mc "Звісно, сподобалося!"
 
 # game/game/ryoko_events.rpy:1345
 translate ukrainian ryoko_gal1_cc7f3516:
@@ -5753,7 +5753,7 @@ translate ukrainian ryoko_h_2rep_ba80902d:
 translate ukrainian ryoko_h_2rep_bac3b3d5:
 
     # r "Mggh~{image=/bg/icons/heart_text.png} {w}Sluurrp~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}Tsuuu~~{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}*"
-    r "{i}Мггх~{/i}{image=/bg/icons/heart_text.png} {w}{i}Сьооорб~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Тсууу~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}*" with vpunch
+    r "{i}Мггх~{/i}{image=/bg/icons/heart_text.png} {w}{i}Сьооорб~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png} {w}{i}Тсууу~~{/i}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}{image=/bg/icons/heart_text.png}" with vpunch
 
 # game/game/ryoko_events.rpy:1875
 translate ukrainian ryoko_h_2rep_d7afdc3b:
@@ -6053,7 +6053,7 @@ translate ukrainian r_room_1st_1cec0f5a:
 translate ukrainian r_room_1st_d32da109:
 
     # mc "Of course I'm happy."
-    mc "Звісно я щасливий."
+    mc "Звісно, я щасливий."
 
 # game/game/ryoko_events.rpy:1971
 translate ukrainian r_room_1st_7a3699f7:

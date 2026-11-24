@@ -2223,7 +2223,7 @@ translate ukrainian choice4_cde5bd9b:
 translate ukrainian choice4_920e63be:
 
     # fu "{sc=2}{outlinecolor=#000000}{size=-8}Ah! No, {w}of course not."
-    fu "{sc=2}{outlinecolor=#000000}{size=-8}Ах! Ні, {w}звісно ні." with vpunch
+    fu "{sc=2}{outlinecolor=#000000}{size=-8}Ах! Ні, {w}звісно, ні." with vpunch
 
 # game/game/script.rpy:750
 translate ukrainian choice4_ec3014b8:
@@ -3423,7 +3423,7 @@ translate ukrainian set_fire_2a87c271:
 translate ukrainian set_fire_a8930fa5:
 
     # a "{size=-6}Maybe we can-"
-    a "{size=-6}Можливо б нам-"
+    a "{size=-6}Може б, нам-"
 
 # game/game/script.rpy:1176
 translate ukrainian set_fire_8c003a78:
@@ -3915,7 +3915,7 @@ translate ukrainian set_fire_3d82b6d0:
 translate ukrainian set_fire_76dec257:
 
     # t "Until she finally fell asleep..."
-    t "Допоки нарешті не заснула..."
+    t "Допоки, нарешті, не заснула..."
 
 # game/game/script.rpy:1306
 translate ukrainian set_fire_93c30dbc:
@@ -6027,7 +6027,7 @@ translate ukrainian keiko_gal1_27e4a94f:
 translate ukrainian keiko_gal1_bb9b006b:
 
     # mc "O-Of course! {size=-6}I like you..."
-    mc "З-Звісно ні! {size=-6}Ти мені до вподоби..."
+    mc "З-Звісно, ні! {size=-6}Ти мені до вподоби..."
 
 # game/game/script.rpy:1938
 translate ukrainian keiko_gal1_b9dbfbc1:
@@ -6807,7 +6807,7 @@ translate ukrainian keiko_gal1_f2f4436a:
 translate ukrainian keiko_gal1_1a56181f:
 
     # k "{size=-10}If I hadn't... y-- wouldn't wake up f-- a few - we---..."
-    k "{size=-8}Якби я не... т- б лежав без тями щ- кілька... тиж---..."
+    k "{size=-8}Якби я не... т- би лежав без тями щ- кілька... тиж---..."
 
 # game/game/script.rpy:2192
 translate ukrainian keiko_gal1_6752d29f:
@@ -7353,7 +7353,7 @@ translate ukrainian ryoko_encounter_3861e8e3:
 translate ukrainian ryoko_encounter_becbdfea:
 
     # r "O-Of course I do... {w}but if you do it so suddenly..."
-    r "З-Звісно подобається... {w}але якщо ви це робитимете так раптово..."
+    r "З-Звісно, подобається... {w}але якщо ви це робитимете так раптово..."
 
 # game/game/script.rpy:2336
 translate ukrainian ryoko_encounter_7fa78f09:
@@ -10821,7 +10821,7 @@ translate ukrainian mother_dream_1bb01731_6:
 translate ukrainian mother_dream_0476ce90:
 
     # t "There must be a way to contact the goddesses without having to almost die."
-    t "Має ж бути якийсь спосіб достукатися до богинь, не опиняючись кожного разу на межі смерті."
+    t "Має ж бути якийсь спосіб достукатися до богинь, не опиняючись щоразу на межі смерті."
 
 # game/game/script.rpy:3624
 translate ukrainian mother_dream_1bb01731_7:
@@ -14154,7 +14154,7 @@ translate ukrainian natsuki_encounter_7dbec352:
 translate ukrainian natsuki_encounter_43c27bd7:
 
     # ao "Didn't you see how he looked at us?"
-    ao "Хіба ти не помітила, як від дивився на нас?"
+    ao "Хіба ти не помітила, як він дивився на нас?"
 
 # game/game/script.rpy:4587
 translate ukrainian natsuki_encounter_ea0aeb37:
@@ -14208,7 +14208,7 @@ translate ukrainian natsuki_encounter_55fbc30f:
 translate ukrainian natsuki_encounter_05dbf1be:
 
     # mc "We are leaving, {w}we have to report the situation of this place."
-    mc "Ми вже йдем. {w}Нам треба розказати про тутешню ситуацію."
+    mc "Ми вже йдемо. {w}Нам треба розказати про тутешню ситуацію."
 
 # game/game/script.rpy:4601
 translate ukrainian natsuki_encounter_52fb95d9:
@@ -30677,7 +30677,7 @@ translate ukrainian strings:
     new "Ох... пробач мені, можливо, твої очікування були інакшими."
 
     old "{outlinecolor=#000000}That's right, [mc]. That's who you are."
-    new "{outlinecolor=#000000}Саме так, [name_form('vol')]. Це той, ким ти є."
+    new "{outlinecolor=#000000}Саме так, [name_form('voc')]. Це той, ким ти є."
 
     old "{outlinecolor=#000000}I understand you're confused, but soon, everything will come back to you."
     new "{outlinecolor=#000000}Розумію твою розгубленість, але незабаром ти все згадаєш."
@@ -30734,7 +30734,7 @@ translate ukrainian strings:
     new "{sc=2}{outlinecolor=#000000}{i}І переможцем стає..."
 
     old "{sc=2}{outlinecolor=#000000}{i}[mc]!!"
-    new "{sc=2}{outlinecolor=#000000}{i}[name_form('vol')]!!"
+    new "{sc=2}{outlinecolor=#000000}{i}[name_form('voc')]!!"
 
     old "{outlinecolor=#000000}Wait, don't you want to dedicate a few words to us? You just became the champion of this region!"
     new "{outlinecolor=#000000}Чекай, не бажаєш присвятити нам кілька слів?\nТи щойно став регіональним чемпіоном!"

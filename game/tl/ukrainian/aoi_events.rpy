@@ -159,7 +159,7 @@ translate ukrainian aoi_event1_b1d1f683:
 translate ukrainian aoi_event1_391a9d57:
 
     # ao "Of course we have one!"
-    ao "Звісно ж у нас є!" with vpunch
+    ao "Звісно ж, у нас є!" with vpunch
 
 # game/game/aoi_events.rpy:55
 translate ukrainian aoi_event1_a4fcb7ef:
